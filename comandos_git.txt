@@ -1,0 +1,5 @@
+1- git init => Inicializa un repositorio o lo reinicia.
+2- git status => Obtengo informacion del repositorio.
+3- git add [archivos] => Agrego archivos al stage area.
+4- git commit -m => 'Texto explicativo del commit'
+5- git log => Muestra los commits realizados.
